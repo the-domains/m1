@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[M1]]></title>
         <description><![CDATA[M1]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/m1/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 04:35:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 21 Feb 2016 04:35:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/m1/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[RWC Elland Road]]></title>
+            <description><![CDATA[<article><h1>RWC Elland Road</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/42e8883b46d855020b4ec11f6ae95e4000dbd593.png"></article>]]></description>
+            <link>https://thegrid.ai/m1/rwc-elland-road/index.html</link>
+            <guid isPermaLink="false">fcdb77c4-68bd-4c3d-8237-6dfc79c77a53</guid>
+            <pubDate>Sun, 21 Feb 2016 04:35:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[RWC Cardiff]]></title>
             <description><![CDATA[<article><h1>RWC Cardiff</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aab3487295c6d96ac6706e48ab32cc0beaba7abf.png"></article>]]></description>
-            <link>undefinedrwc-cardiff/index.html</link>
+            <link>https://thegrid.ai/m1/rwc-cardiff/index.html</link>
             <guid isPermaLink="false">7e5d577a-dd8d-42aa-a6ec-b0593113c9e6</guid>
             <pubDate>Sun, 21 Feb 2016 04:35:10 GMT</pubDate>
         </item>
