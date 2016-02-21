@@ -1,0 +1,14 @@
+layout_spectrum: 0.109217
+typography_spectrum: 1
+color:
+  saturation: 1
+  lightness: 1
+  brandStrength: 0.8416965
+  brandColors:
+    - '#426680'
+    - '#99BDD7'
+    - '#393930'
+    - '#ABA49B'
+    - '#D0DFEA'
+  rhythmicContrast: 1
+name: M1
