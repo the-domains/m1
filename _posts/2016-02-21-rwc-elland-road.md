@@ -1,20 +1,20 @@
 ---
-description: ''
 author: []
-datePublished: '2016-02-21T04:35:10.590Z'
-publisher:
-  domain: ''
-  name: ''
-title: RWC Elland Road
-dateModified: '2016-02-21T04:28:24.466Z'
-sourcePath: _posts/2016-02-21-rwc-elland-road.md
+datePublished: '2016-03-02T05:35:36.272Z'
+dateModified: '2016-03-02T04:49:12.832Z'
 published: true
+title: RWC Elland Road
+publisher:
+  name: ''
+  domain: ''
+description: ''
+sourcePath: _posts/2016-02-21-rwc-elland-road.md
 inFeed: true
 hasPage: true
 inNav: false
 url: rwc-elland-road/index.html
-_context: 'http://schema.org'
 _type: Article
+_context: 'http://schema.org'
 
 ---
 # RWC Elland Road
