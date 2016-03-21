@@ -1,20 +1,20 @@
 ---
-description: ''
 author: []
-datePublished: '2016-03-04T08:17:26.339Z'
-publisher:
-  domain: ''
-  name: ''
-title: RWC Cardiff
-dateModified: '2016-03-02T05:38:32.585Z'
-sourcePath: _posts/2016-02-21-rwc-cardiff.md
+dateModified: '2016-03-21T02:38:29.531Z'
 published: true
+title: RWC Cardiff
+publisher:
+  name: ''
+  domain: ''
+description: ''
+sourcePath: _posts/2016-02-21-rwc-cardiff.md
+datePublished: '2016-03-21T02:40:01.542Z'
 inFeed: true
 hasPage: true
 inNav: false
 url: rwc-cardiff/index.html
-_context: 'http://schema.org'
 _type: Article
+_context: 'http://schema.org'
 
 ---
 # RWC Cardiff
