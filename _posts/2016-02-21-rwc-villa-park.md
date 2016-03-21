@@ -1,20 +1,20 @@
 ---
-description: ''
 author: []
-datePublished: '2016-03-04T08:17:26.365Z'
-publisher:
-  domain: ''
-  name: ''
-title: RWC Villa Park
-dateModified: '2016-03-02T05:38:32.842Z'
-sourcePath: _posts/2016-02-21-rwc-villa-park.md
+datePublished: '2016-03-21T02:40:02.522Z'
+dateModified: '2016-03-21T02:39:37.369Z'
 published: true
+title: RWC Villa Park
+publisher:
+  name: ''
+  domain: ''
+description: ''
+sourcePath: _posts/2016-02-21-rwc-villa-park.md
 inFeed: true
 hasPage: true
 inNav: false
 url: rwc-villa-park/index.html
-_context: 'http://schema.org'
 _type: Article
+_context: 'http://schema.org'
 
 ---
 # RWC Villa Park
